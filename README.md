@@ -59,4 +59,4 @@ run `truffle console` to load up a development network. By default you are the `
        logs: [] },
     logs: [] }
   ```
-    Checking the participating accounts will show the updated balances (+25 in account 1 and -25 in account 0)
+  Checking the participating accounts will show the updated balances (+25 in account 1 and -25 in account 0)
